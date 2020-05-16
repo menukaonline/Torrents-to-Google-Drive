@@ -10,10 +10,10 @@ This is a Google Colab notebook with QBittorrent and Rclone, which can download 
 5. File browser
 
 <br><b>Usage:</b>
+<br>
 <a href="https://colab.research.google.com/github/thim0o/Google-Colab-QBittorrent/blob/master/Qbitt.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <br>
 1. Click on the "Open in Colab" button and press ctrl+f9
-<a href="https://colab.research.google.com/github/thim0o/Google-Colab-QBittorrent/blob/master/Qbitt.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <br>
 <br>
 For the people not familiar with the webUI, this is what it looks like:<br>
